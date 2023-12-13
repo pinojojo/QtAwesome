@@ -6,3 +6,5 @@ CMakeLists.txt.user
 
 # never include pro files
 QtAwesome/fonts/pro/
+
+QtAwesomeSample/build/*
